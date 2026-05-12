@@ -10,7 +10,7 @@
     Data Format: JSON
 🚀 Key Features
 
-    Multi-Source Integration: Simultaneously fetches live orbital coordinates and current crew manifest (including active expeditions like the Boeing Starliner mission).
+    Multi-Source Integration: Simultaneously fetches live orbital coordinates and current crew manifest.
 
     Defensive Programming: Implemented robust error handling for HTTP timeouts and connection resets to ensure pipeline stability.
 
